@@ -33,7 +33,7 @@
     "rootpath": "^0.1.2",
     "scmp": "^2.1.0",
     "url-parse": "^1.4.7",
-    "xmlbuilder": "^13.0.2"
+    "xmlbuilder": "^15.0.0"
   },
   "devDependencies": {
     "@types/express": "^4.17.7",
